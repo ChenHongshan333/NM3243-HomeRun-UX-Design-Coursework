@@ -82,18 +82,14 @@ homerun-hci/
 |   ├── 05_conceptual design and prototyping.pdf
 │   └── 06_user testing and evaluation.pdf
 ├── research/
-│   ├── interview_guide.md
-│   ├── appendix_B_interview_questions.pdf
-│   └── appendix_C_interview_transcripts.pdf
+│   ├── Appendix A_informed consent template.pdf
+│   ├── Appendix B_insight interview questions.pdf
+│   └── Appendix C_insight interview transcripts.pdf
 ├── design/
-│   ├── storyboards/
-│   │   └── appendix_D_storyboards.pdf
-│   ├── prototype_v1/
-│   │   └── appendix_E_initial_prototype.pdf
-│   └── prototype_v2/
-│       └── appendix_F_revised_prototype.pdf
+│   └── Appendix D_storyboards.pdf
+|
 └── evaluation/
-    └── heuristic_evaluation_report.md
+    └── Appendix F_Prototype Testing Interview Template & Task Sheet.pdf
 ````
 
 ---
