@@ -75,10 +75,12 @@ homerun-hci/
 ├── report/
 │   └── NM3243_T2_Group1_FinalReport.pdf
 ├── presentations/
-│   ├── T2_pre1_ProblemSpace.pdf
-│   ├── T2_pre2_DataGathering.pdf
-│   ├── T2_pre3_RequirementsAndPersonas.pdf
-│   └── T2_pre4_PrototypingAndEvaluation.pdf
+│   ├── 01_problem space and features.pdf
+│   ├── 02_user research.pdf
+│   ├── 03_data gathering plan.pdf
+|   ├── 04_personas and requirements.pdf
+|   ├── 05_conceptual design and prototyping.pdf
+│   └── 06_user testing and evaluation.pdf
 ├── research/
 │   ├── interview_guide.md
 │   ├── appendix_B_interview_questions.pdf
