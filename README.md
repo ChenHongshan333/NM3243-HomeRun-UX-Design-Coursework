@@ -1,4 +1,4 @@
-# HomeRun — Co-living Mediator Dashboard
+# HomeRun: Co-living Mediator Dashboard
 
 > *One Roof. One Dashboard.*
 
@@ -11,6 +11,8 @@ A human-computer interaction (HCI) design project exploring coordination frictio
 **HomeRun** is a conceptual desktop system designed to act as a neutral, centralised "Co-living Mediator" for residents in high-density shared housing. The system depersonalises household administration by shifting chore tracking, expense splitting, and social coordination away from personal messaging apps onto a shared, persistent dashboard.
 
 This project was completed as part of **NM3243 (Interaction Design)** at the National University of Singapore.
+
+The prototype can be viewed here: https://www.figma.com/design/GwmpbJKVMPOKqjTkpCR1s9/NM3243-Co-Living-Admin?node-id=124-2&t=9ZduWSEFRT213hBM-1
 
 ---
 
